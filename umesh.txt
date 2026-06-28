@@ -1,29 +1,2 @@
 How was your learnings are going
 heyyyyy umeshhhhhh
-In the Construction Phase of SPPM (Unified Process), the software is developed and thoroughly tested before release.
-
-Testing Activities in Construction Phase
-Unit Testing
-Tests individual modules or functions.
-Usually performed by developers.
-Example: Testing a login function separately.
-Integration Testing
-Tests interactions between combined modules.
-Ensures modules work together correctly.
-Example: Checking whether the login module communicates properly with the database.
-System Testing
-Tests the complete software system as a whole.
-Verifies that all requirements are met.
-Example: Testing all features of an e-commerce application.
-Regression Testing
-Ensures new changes do not break existing functionality.
-Performed after bug fixes or feature additions.
-Performance Testing (if required)
-Checks speed, response time, and stability.
-Example: Testing how many users can access the system simultaneously.
-Testing in Transition Phase
-Beta Testing
-User Acceptance Testing (UAT)
-Exam Answer
-
-The main testing activities performed during the Construction Phase are Unit Testing, Integration Testing, System Testing, Regression Testing, and Performance Testing. These tests ensure that the software is functioning correctly and is ready for deployment in the Transition Phase.
